@@ -7,7 +7,7 @@
 - Ubah kontak Dina dengan nomor baru 088999776
 - Tampilkan semua Nama
 - Tampilkan semua Nomor
-![Gambar](pr6/pr6.1.png)
+![Gambar](pr6/pr6.1.1.png)
 - Tampilkan daftar Nama dan nomornya
 - Hapus kontak Dina
 ![Gambar](pr6/pr6.2.png)
